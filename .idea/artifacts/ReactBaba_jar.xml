@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReactBaba:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReactBaba_jar</output-path>
+    <root id="archive" name="ReactBaba.jar">
+      <element id="module-output" name="ReactBaba" />
+    </root>
+  </artifact>
+</component>
